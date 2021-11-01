@@ -1,6 +1,6 @@
 fun main{
     val nameOfStudent=Student()
-    nameOfstudent.name="|],]d"
+    nameOfstudent.name="abdullah"
     nameOfStudent.age=24
     nameOfStudent.GPA=4.68
     println("the name:${nameOfStudent.name}")
